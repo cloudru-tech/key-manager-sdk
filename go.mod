@@ -1,6 +1,6 @@
 module github.com/cloudru-tech/key-manager-sdk
 
-go 1.22
+go 1.19
 
 require (
 	google.golang.org/grpc v1.64.0
